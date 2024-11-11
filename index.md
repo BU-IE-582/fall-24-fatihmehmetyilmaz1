@@ -2,10 +2,14 @@
 
 You can review the homeworks and the project work on this website for IE 582. 
 
+[Homework 1](https://github.com/BU-IE-582/fall-24-fatihmehmetyilmaz1/blob/main/Homework%201.html): Exploring the relationships between the design parameters of an antenna and its electromagnetic performance using machine learning techniques
+
 ### Info
 
 Fatih Mehmet Yılmaz - 2024702054
+
 Industrial Engineering
+
 Bogazici University 
 Istanbul, Turkey
 
