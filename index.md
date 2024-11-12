@@ -12,4 +12,3 @@ Industrial Engineering
 
 Bogazici University 
 Istanbul, Turkey
-
