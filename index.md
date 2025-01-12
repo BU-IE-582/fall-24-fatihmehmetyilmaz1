@@ -7,7 +7,7 @@ You can review the homework and the project work on this website for IE582.
 
 [Homework 2](files\Homework2.html): Understanding the football betting scientifically
 
-
+[Project](files\Project.pdf): Optimizing Live Betting Strategy using supervised and unsupervised learning techniques
 
 ### Information
 
